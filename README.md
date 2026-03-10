@@ -70,8 +70,12 @@ Understanding these patterns can help organizations design targeted retention st
 - [hr_attrition_analysis.xlsx](hr_attrition_analysis.xlsx) – HR dataset used for analysis
 - [hr_attrition_analysis.ipynb](hr_attrition_analysis.ipynb) – Python data analysis notebook
 - [hr_attrition_dashboard.pbix](hr_attrition_dashboard.pbix) – Power BI dashboard
-- ![Dashboard](employee_retention_dashboard.png) – Dashboard screenshot
-- ![Dashboard](employee%20performance%20%26%20retention%20insights.png) – Analysis insights image– Analysis insights image
+  
+## Dashboard Preview
+
+- ![HR Attrition Dashboard](hr_attrition_dashboard_overview.png)
+
+- ![Employee Retention Dashboard](employee_retention_dashboard.png)
 ---
 
 ## Conclusion
